@@ -1,0 +1,2 @@
+# NYC-Citi-Bike-Rental-Analysis
+New york is one of the major cities in USA that has been dreadfully been affected by Covid-19 and New York state is slowly emerging from the shelter-in-place order issued on March 22 to prevent the spread of Covid-19.It remains to be seen just how long it will take for things to truly get back to normal. In the meantime, I thought it would be interesting to analyze bike rental data from 2019 and 2020 to see what effect, if any, the pandemic has had on NYC's bike share program. Data Source :https://www.citibikenyc.com/system-data
